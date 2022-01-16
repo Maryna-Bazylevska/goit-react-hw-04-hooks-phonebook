@@ -1,0 +1,17 @@
+.list {
+  width: 200px;
+}
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.text {
+  margin-right: 5px;
+}
+.button {
+  margin-top: 15px;
+  background-color: #fff;
+  border: 1px solid #bdbdbd;
+  border-radius: 3px;
+}
